@@ -4,17 +4,9 @@ MT1 CAM apk &amp; issues
 
 Google Play: <https://play.google.com/store/apps/details?id=com.iosdevlog.mt1cam>
 
-v1.0.4 test: <https://play.google.com/apps/test/RQ4brx35iQM/ahAAvZMmhh91HCVugjotbLQHU83Ljwh71vf3Xcl38qpB-rrYfMtaBRN5FjustnbECnI9hvUV0Gh_5ppoM_soVZ5RrZ>
+v1.0.5:
 
-x | Android 9
-
-Google Play's MT1 CAM can not connection, but this apk work well.
-
-I'm sorry! I try to fix it.
-
-Before MT1 CAM on Google Play can work, you can try this first.
-
-<https://github.com/iOSDevLog/MT1CAM/releases/download/v1.0.3/MT1Cam_V1.0.3-201910160019.apk>
+<https://github.com/iOSDevLog/MT1CAM/releases/download/v1.0.5/MT1Cam_12-1.0.5-release-201910171132.apk>
 
 If you have any question please click this link: <https://github.com/iOSDevLog/MT1CAM/issues/new>
 
